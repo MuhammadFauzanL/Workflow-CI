@@ -1,5 +1,3 @@
-# modelling.py (VERSI BENAR UNTUK CI)
-
 import pandas as pd
 import mlflow
 import mlflow.sklearn
